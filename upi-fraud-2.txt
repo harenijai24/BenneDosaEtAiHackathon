@@ -1,0 +1,67 @@
+[SMS — Received 6:15 PM]
+From: AX-PHONEP (Sender ID spoofed)
+PhonePe: Congratulations! You have received Rs.50,000.00 from NPCI Reward Program. Claim before expiry: https://phonepe-reward.in/claim50k
+
+---
+
+[SMS — Received 6:17 PM]
+From: BK-BHIMXX (Sender ID spoofed)
+BHIM UPI: Refund of Rs.50,000.00 processed for failed transaction TXN9928174. Collect now: https://bhim-refund.co.in/collect
+
+---
+
+[Phone call — Received 6:20 PM]
+Caller: Hello, is this Mr. Sanjay Patel?
+
+Victim: Yes, speaking.
+
+Caller: Sir, I am calling from PhonePe customer support. My employee ID is PP-44721. Did you receive an SMS about a ₹50,000 reward from the NPCI cashback program?
+
+Victim: Yes, I got a message. I didn't apply for any reward though.
+
+Caller: Sir, this is part of NPCI's UPI Safety Awareness Campaign 2026. Users who completed more than 100 UPI transactions last year were randomly selected. Your number was chosen. The ₹50,000 is genuine, but you need to "collect" it through the link because it is a pull-request payment, not a push payment.
+
+Victim: How do I collect it? The link looks a bit strange.
+
+Caller: Sir, the link is a secure subdomain — phonepe-reward.in — created for this campaign. The main PhonePe app sometimes doesn't show promotional credits, so NPCI uses a separate portal. I can walk you through it on call.
+
+Victim: Okay, I'm opening the link now.
+
+Caller: You will see a page asking for your UPI ID and UPI PIN. The PIN is required to verify that you are the account owner before NPCI releases the reward. This is the same verification used for receiving money from any UPI app.
+
+Fake page text:
+"PhonePe × NPCI — Claim Your Reward
+Reward Amount: ₹50,000.00
+Valid until: Today, 11:59 PM
+
+Enter UPI ID: sanjay.patel@okicici
+Enter UPI PIN to authorize credit: [____]
+[Claim ₹50,000.00 Reward]"
+
+Victim: It is asking for my UPI PIN. Is that normal?
+
+Caller: Yes, sir, completely normal. When someone sends you money on PhonePe, you sometimes need to authorize the credit with your PIN — especially for amounts above ₹25,000. I have helped 200 customers claim this today. You have 40 minutes before the reward expires and goes to the next winner.
+
+[Victim enters UPI PIN]
+
+---
+
+[SMS — Received 6:25 PM]
+From: AX-PHONEP
+UPI Alert: Rs.49,500.00 paid to flipkart@ybl from A/c XX5567. Ref no 8829174630.
+
+Caller: Did you receive the reward, sir?
+
+Victim: No — it says ₹49,500 was debited from my account!
+
+Caller: That must be a system error. Let me check... sir, please stay on the line while I escalate to my supervisor.
+
+[Call disconnects. Caller number is switched off.]
+
+---
+
+[SMS — Received 6:30 PM]
+From: AX-PHONEP
+UPI Alert: Rs.38,000.00 paid to amazonpay@ybl from A/c XX5567. Ref no 8829174891.
+
+[Scammer continues draining account using captured UPI PIN until daily limit is hit.]

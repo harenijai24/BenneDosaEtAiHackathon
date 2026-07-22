@@ -1,0 +1,44 @@
+[SMS — Received 2:15 PM]
+From: AX-SBIBNK (Sender ID spoofed)
+SBI: Your YONO KYC is pending verification. As per RBI guidelines, unverified accounts will be suspended from 01/08/2026. Complete now: https://sbi-kycportal.co.in/update
+
+---
+
+[SMS — Received 2:18 PM]
+From: +91 91234 56789
+SBI Alert: Dear SBI Customer, we noticed suspicious login attempt on your YONO app from IP address 185.220.xxx.xxx (Russia). If this was not you, secure your account immediately: https://sbi-kycportal.co.in/secure-login
+
+---
+
+[Phone call — Received 2:22 PM]
+Caller: Hello, good afternoon. Am I speaking with Ms. Lakshmi Devi?
+
+Victim: Yes, who is this?
+
+Caller: Ma'am, I am calling from State Bank of India, Anna Nagar branch, Chennai. My name is Suresh. We sent you an SMS about KYC verification and a suspicious login from Russia. Did you receive it?
+
+Victim: Yes, I got the message. I didn't log in from Russia. I was at home all day.
+
+Caller: That is what we suspected, ma'am. Someone is trying to access your account. We have temporarily limited your daily transaction limit to ₹10,000 for your protection. To restore full access and complete KYC, I need you to verify your identity.
+
+Victim: How do I verify?
+
+Caller: I will send you an OTP on your registered number ending in 3391. Please read it out to me — this is a one-time verification code to confirm you are the real account holder. SBI never stores OTPs, so this is safe.
+
+Victim: Okay, I'm ready.
+
+[SMS arrives — OTP: 629047]
+Victim: The OTP is 629047.
+
+Caller: Thank you, ma'am. One moment... I see the verification failed. This sometimes happens when the OTP expires quickly. I am sending a new OTP. Please read the next one as well.
+
+[SMS arrives — OTP: 629047 is same, but second SMS with OTP: 384512 for "adding payee"]
+Victim: The new OTP is 384512.
+
+Caller: Perfect, ma'am. Your KYC has been updated and the Russian login attempt has been blocked. Your account is now secure. You will receive a confirmation SMS shortly.
+
+[SMS — Received 2:28 PM]
+From: AX-SBIBNK
+Dear Customer, Rs.75,000.00 debited from A/c XX3391 on 22-07-2026. Avl Bal: Rs.12,430.00. If not done by you, call 1800-XXX-XXXX.
+
+[Victim realizes money is gone. The "SBI officer" has already disconnected.]

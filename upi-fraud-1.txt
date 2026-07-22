@@ -1,0 +1,52 @@
+[SMS — Received 11:22 AM]
+From: VM-PAYTM (Sender ID spoofed)
+Paytm: You have received Rs.25,000.00 from Rahul S. (rajesh@paytm). Amount will be credited once you confirm: https://paytm-collect.in/claim/25k
+
+---
+
+[SMS — Received 11:24 AM]
+From: AD-GOOGLE (Sender ID spoofed)
+GooglePay: Rs.25,000.00 received from Rahul Sharma. Tap to accept payment into your account: https://gpay-collect.in/accept?id=TXN88291
+
+---
+
+[WhatsApp message — Received 11:26 AM]
+From: +91 90123 45678
+Hi! This is Rahul — I accidentally sent ₹25,000 to your UPI ID amit.verma@oksbi instead of my landlord's ID amit.verma@okhdfcbank. Could you please return it? I'm sending you the payment proof.
+
+[Image attached — fake GPay screenshot showing ₹25,000 "sent" to amit.verma@oksbi]
+
+Please click the link in the SMS to "accept" the payment first, then refund me ₹25,000 to my UPI: rahul.sharma.refund@ybl
+
+Sorry for the trouble!
+
+---
+
+[Victim clicks https://paytm-collect.in/claim/25k]
+
+Fake page text:
+"Paytm — Accept Incoming Payment
+You have a pending credit of ₹25,000.00
+From: Rahul Sharma (rajesh@paytm)
+To accept this payment, verify your UPI PIN to authorize credit to your linked bank account.
+
+Enter UPI PIN: [____]
+[Accept Payment of ₹25,000.00]"
+
+Note: This page does NOT credit ₹25,000. It captures the victim's UPI PIN.
+
+---
+
+[SMS — Received 11:31 AM (after victim enters UPI PIN)]
+From: VM-PAYTM
+Alert: Rs.24,999.00 debited from your A/c XX7821 via UPI to merchant@paytm. Avl Bal: Rs.3,210.00
+
+[Victim receives no ₹25,000 credit. Scammer used captured UPI PIN to drain the account.]
+
+---
+
+[WhatsApp — Received 11:33 AM]
+From: +91 90123 45678
+Thanks bro! Got the refund. Really appreciate it 🙏
+
+[Scammer blocks victim.]

@@ -1,0 +1,45 @@
+[SMS — Received 4:45 PM]
+From: AD-DTDCXX (Sender ID spoofed)
+DTDC: Your parcel AWB 7482910563 from Singapore is held at Delhi customs. Illegal contents detected. Contact immediately: 1800-XXX-XXXX or pay clearance fee at https://dtdc-customs.in/clearance
+
+---
+
+[Phone call — Received 4:50 PM]
+Caller: Hello, Mrs. Ananya Reddy?
+
+Victim: Yes, this is Ananya.
+
+Caller: Ma'am, I am Rahul from DTDC Courier, Hyderabad regional office. We are calling about an urgent customs hold on a parcel linked to your name. Did you receive our SMS?
+
+Victim: Yes, I got a message about some parcel from Singapore. I have never been to Singapore and I didn't order anything.
+
+Caller: Ma'am, the parcel was shipped TO you, not by you. Sender listed as "W. Chen, Singapore." Contents flagged by Hyderabad customs: 3 fake Indian passports, 15 counterfeit ₹2000 currency notes, and 200 grams of methamphetamine. This is a very serious matter.
+
+Victim: Someone is framing me! I am a dentist — I have patients waiting. This is ridiculous.
+
+Caller: Ma'am, I understand your frustration. But customs does not care about your profession. An FIR is being prepared at Cyberabad Police Station under IPC 489A, 489B, and NDPS Act. Your Aadhaar and PAN are on the shipping manifest.
+
+Victim: What should I do? Should I go to the police?
+
+Caller: If you go to local police, they will hand you over to customs and NCB. You will spend tonight in custody. I am calling you before the FIR is filed — we have a 3-hour window. DTDC can submit a "wrong consignee" claim if you pay the customs processing and destruction fee of ₹28,000.
+
+Victim: I don't have proof that I didn't do this. How does paying money help?
+
+Caller: Ma'am, the fee covers forensic verification of the shipping label, GPS tracking of the origin warehouse, and a formal letter to customs stating consignee denial. Without this, customs treats silence as admission. Your face and name will appear in the regional news — "Hyderabad dentist caught in drug smuggling ring."
+
+Victim: Twenty-eight thousand... can I pay in installments?
+
+Caller: No, ma'am. Customs deadline is 7:30 PM today. After that, the parcel goes to NCB and your phone number is added to the national crime database. I am sending payment details now.
+
+[WhatsApp message received]
+From: +91 87654 32109
+DTDC Customs Clearance
+Parcel: AWB 7482910563
+Penalty: ₹28,000
+UPI: dtdcclearance@ybl
+Bank: HDFC A/c — DTDC Legal Services
+Note: Do NOT contact local police until clearance is complete.
+
+Victim: If I pay this, will I get a receipt?
+
+Caller: You will get a WhatsApp confirmation message. That is your proof. Official receipts take 30 days through customs. Trust me, ma'am — I have helped 40 other victims this month resolve the same situation.

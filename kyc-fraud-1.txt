@@ -1,0 +1,48 @@
+[SMS — Received 10:47 AM]
+From: JM-HDFCBK (Sender ID spoofed)
+HDFC Bank: Dear Customer, your KYC documents have expired. Your account ending 4521 will be blocked within 24 hours. Update immediately: https://hdfckyc-update.in/verify
+
+---
+
+[SMS — Received 10:52 AM (follow-up)]
+From: JM-HDFCBK
+HDFC Bank ALERT: Final reminder — failure to update KYC will result in account freeze and debit card deactivation. Click here to avoid disruption: https://hdfckyc-update.in/verify
+
+---
+
+[WhatsApp message — Received 11:03 AM]
+From: +91 98765 43210 (Profile: "HDFC Bank Support")
+Hello Mr. Amit,
+
+This is HDFC Bank Customer Care. We tried calling you regarding your KYC expiry notice sent this morning. Your savings account (ending 4521) will be frozen at 6 PM today if KYC is not updated.
+
+Please complete verification using the link we sent via SMS. You will need to:
+1. Enter your debit card number and CVV
+2. Verify with OTP sent to your registered mobile
+3. Confirm your net banking password for security check
+
+If you need assistance, reply to this message or call our helpline: 1800-XXX-XXXX (this number forwards to scammer).
+
+Note: HDFC Bank will never ask for OTP over phone. But the fake page asks for it anyway.
+
+---
+
+[Victim clicks link — fake page loads]
+
+Fake page text:
+"HDFC Bank — Secure KYC Update Portal
+Enter Registered Mobile Number: [__________]
+Enter Debit Card Number: [____ ____ ____ ____]
+Enter CVV: [___]
+Enter Expiry: [__/__]
+Enter Net Banking Password: [__________]
+Enter OTP sent to your mobile: [______]
+[Submit KYC Update]"
+
+---
+
+[SMS — Received 11:08 AM (after victim submits)]
+From: JM-HDFCBK
+OTP for transaction of Rs.49,999.00 at AMAZON PAY is 847291. Do not share with anyone.
+
+[Victim had unknowingly linked their account on the fake portal. Scammer initiates transaction using captured credentials.]

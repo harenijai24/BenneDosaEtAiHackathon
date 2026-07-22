@@ -1,0 +1,42 @@
+[INCOMING VIDEO CALL — Caller ID: "Enforcement Directorate"]
+Duration: 22 minutes 08 seconds
+
+Caller: Namaste, is this Mrs. Priya Sharma?
+
+Victim: Yes, speaking. Who is this?
+
+Caller: Mrs. Sharma, this is Deputy Director Rakesh Malhotra from the Enforcement Directorate, Delhi Regional Office. You are currently connected to a secure government video line. This conversation is being recorded for legal purposes.
+
+Victim: Enforcement Directorate? What do you want?
+
+Caller: Ma'am, your PAN card — ABCDE1234F — has been flagged in a money laundering investigation involving ₹12 crore in hawala transactions routed through Dubai and Mauritius. We have traced 47 UPI transactions from your account to shell companies registered in the British Virgin Islands.
+
+Victim: That can't be right. I only use my account for groceries and my children's school fees.
+
+Caller: Ma'am, the trail is clear. Your Aadhaar was used to open three accounts at Bandhan Bank, IDFC First Bank, and AU Small Finance Bank. Combined transactions exceed ₹4.2 crore in the last 18 months.
+
+Victim: I only have one account with SBI! I've never heard of those other banks.
+
+Caller: That is exactly what the accused always claim. We have issued a Look Out Circular against you. If you attempt to leave the country, you will be detained at the airport. A team is preparing to visit your residence at 14, Sector 15, Noida.
+
+Victim: My husband is a government school teacher. We are not rich people. This must be a mistake.
+
+Caller: Ma'am, I believe you may be a victim of identity theft. That is why I am offering you a chance to resolve this through our Digital Compliance Portal instead of a full ED raid on your home. Your neighbours, your husband's colleagues — everyone will know.
+
+Victim: What do I need to do to fix this?
+
+Caller: You must complete a KYC reverification and pay a compliance penalty of ₹1,80,000. This will be held in the ED's escrow account. Once your identity is verified as clean, the LOC will be removed and the penalty refunded.
+
+Victim: One lakh eighty thousand... we have some FDs. Can my husband know about this?
+
+Caller: Absolutely not, ma'am. Under Section 37A of the PMLA, you are prohibited from disclosing details of an ongoing investigation to any third party, including family members. If your husband sees the transaction, tell him it is a mutual fund investment. Any leak will result in immediate arrest of both you and your husband as co-conspirators.
+
+Victim: Okay, okay. Please don't come to our house. I'll do the verification.
+
+Caller: I am sharing a UPI ID on your screen now — edcompliance@govpay. Transfer ₹1,80,000 and share the screenshot on this WhatsApp number. Also, download the AnyDesk app — our technical team needs remote access to your phone to scan for malware that may have stolen your identity.
+
+Victim: Remote access to my phone?
+
+Caller: Yes, ma'am. Standard procedure. Our cyber forensics team will take 15 minutes. Please install AnyDesk and share the 9-digit code. Time is critical — the raid team is on standby.
+
+[CALL CONTINUES — Victim installs AnyDesk and transfers ₹1,80,000]
